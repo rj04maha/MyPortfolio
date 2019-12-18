@@ -10,7 +10,7 @@ const Header = () => {
           <Link to="/">
             <img
               className="ui mini image"
-              src="/images/rblue.png"
+              src="/images/rblue.PNG"
               alt="r"
             ></img>
           </Link>
