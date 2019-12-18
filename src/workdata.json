@@ -1,0 +1,97 @@
+[
+  {
+    "id": 7,
+    "title": "Self Improvement",
+    "company": "",
+    "time": "Nov 2019 - Present",
+    "location": "Fort Lauderdale, FL",
+    "duties": [
+      "Modern React with Redux Udemy Course",
+      "Node with React: Fullstack Web Development Udemy Course",
+      "Creating this website",
+      "A little traveling"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Computer Programmer/Analyst",
+    "company": "Civil Service Employees Association",
+    "time": "May 2019 - Nov 2019",
+    "location": "Albany, NY",
+    "duties": [
+      "Developed, maintained and tested code for self-hosted WordPress sites",
+      "Converted a legacy API to a Node.js API",
+      "Worked with a large amount of data while writing SQL queries",
+      "Wrote code for web applications using PHP and JavaScript",
+      "Advocated that we follow Agile/Scrum methodologies and introduced Trello to my team to keep track of our projects"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Graduated College!",
+    "company": "Siena College",
+    "time": "May 2019",
+    "location": "Loudonville, NY",
+    "duties": [
+      "Bachelors of Science in Computer Science",
+      "Overall GPA: 3.47",
+      "Computer Science GPA: 3.54",
+      "Notable courses taken: Data Structures, Design+Analysis of Algorithm, Database Management Systems, Web Application Development, Unix/Linux, Software Engineering I & II, Discrete Math, Theory of Computation"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Student Consultant",
+    "company": "Information Technology Services at Siena College",
+    "time": "Sept 2016 - May 2019",
+    "location": "Loudonville, NY",
+    "duties": [
+      "Assisted students and faculty with password, network, and desktop support",
+      "Maintained printers and printer software throughout the campus"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Summer Research Assistant",
+    "company": "Chemistry Department at Siena College",
+    "time": "May 2017 - August 2017",
+    "location": "Loudonville, NY",
+    "duties": [
+      "Worked on a non-profit's WordPress site to enhance the user's experience and make content more readable"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Tutor & Classrom/Lab Assistent",
+    "company": "Computer Science Department at Siena College",
+    "time": "Sept 2016 - May 2017",
+    "location": "Loudonville, NY",
+    "duties": [
+      "Led group tutoring for any students needing assistance with their Java or Python programs",
+      "Prepared and reviewed lab material to help students complete their Python and Java labs",
+      "Taught programming concepts to beginner students"
+    ]
+  },
+  {
+    "id": 1,
+    "title": "Service Desk Associate",
+    "company": "nfrastructure Technologies",
+    "time": "July 2016 - Oct 2016",
+    "location": "Clifton Park, NY",
+    "duties": [
+      "Identified, diagnosed and resolved malfunctioning software programs",
+      "Gained problem-solving skills under pressure, communication and teamwork"
+    ]
+  },
+  {
+    "id": 0,
+    "title": "Started College",
+    "company": "Siena College",
+    "time": "September 2015",
+    "location": "Loudonville, NY",
+    "duties": [
+      "Major: Undeclared science",
+      "Wrote my first line of code in Python!"
+    ]
+  }
+]

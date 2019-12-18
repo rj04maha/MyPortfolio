@@ -1,0 +1,100 @@
+[
+  {
+    "id": 0,
+    "title": "Rachael Mahar's Portfolio",
+    "description": "After I quit CSEA, I decided to teach myself React. I am currently still going through a couple Udemy courses on React/Redux but wanted to make a simple website to show off my work and get practice using components and states. I used Semantic UI library for styling. Check out my GitHub for the source code for this website.",
+    "technologies": [
+      "React",
+      "JavaScript",
+      "Semantic UI",
+      "CSS",
+      "HTML",
+      "JSON",
+      "JSX"
+    ],
+    "media": "web.png",
+    "linkdes": "Link to source code",
+    "source": "fix me later when this is on github"
+  },
+  {
+    "id": 1,
+    "title": "Converted Legacy API to Node.js API",
+    "company": "Civil Service Employees Association",
+    "description": "The API is used by CSEA's WordPress website that has web applications that use member data. Each web application is written using PHP scripts that makes HTTP requests to the API server and handled by Express routing. The routes are written using asynchronous javascript (async/await) to manipulate data via SQL queries. I used Postman to test and debug the routes. I also refactored legacy queries using Oracle SQL Developer.",
+    "technologies": [
+      "Node.js",
+      "Postman",
+      "Oracle SQL Developer",
+      "Express",
+      "PHP",
+      "JSON",
+      "RESTful APIs"
+    ],
+    "media": "officer_resources.gif",
+    "linkdes": "Link to a sample router",
+    "source": "https://github.com/rj04maha/Coding-Samples"
+  },
+  {
+    "id": 2,
+    "title": "CSEA WordPress Website",
+    "company": "Civil Service Employees Association",
+    "description": "I worked on CSEA's new WordPress website. The WordPress instance is hosted on a Apache Linux server in a MySQL database. I refactored and wrote many PHP scripts that are used to display data retrieved via the web API. I worked on making the site responsive and mobile friendly with restructuring PHP scripts and CSS. I also worked on making the website more user friendly and look better.",
+    "technologies": [
+      "WordPress",
+      "PHP",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Apache Linux Server",
+      "MySQL"
+    ],
+    "media": "cseaweb.png",
+    "linkdes": "Link to website",
+    "source": "https://interdev.cseainc.org/"
+  },
+
+  {
+    "id": 3,
+    "title": "Manage User and Courses Web Application",
+    "company": "Web Application Development Course taught by Eric Breimer at Siena College",
+    "description": "I created this web application to practice the skills I was learning during the Web App course I took at Siena. The landing page of this site is a page where a user is able to join or log in to edit and manage their profile and a list of courses they have taken. In addition, there is also an admin log in that can manage the users. It is written in PHP to retrieve data from a MySQL database and create reusable HTML markup. I used Bootstrap library for styling. During this course I learned about request and response processes, importance of separating an application's content, presentation, and behavior and how to implement a single integrated application using different languages.",
+    "technologies": ["PHP", "HTML", "CSS", "Bootstrap", "JSON", "MySQL"],
+    "media": "webappproj.png",
+    "linkdes": "Link to source code",
+    "source": "https://github.com/rj04maha/WebAppCourses"
+  },
+  {
+    "id": 4,
+    "title": "Developer CheatSheet",
+    "company": "Software Engineer Capstone Project at Siena College",
+    "description": "I worked on a team of 10 people for my capstone project to create this application that can be used by developers to ask programming questions via Slack or an Alexa enabled device and delivered to their Slack channel. My role in this project was Scrum Master. I also created a landing page. As Scrum Master, my duties were to conduct meetings such as Sprint Planning, Tri-Weekly Standups, Sprint Review and Sprint Retrospect. I also made sure any blockers were taken care of.",
+    "technologies": [
+      "Node.js",
+      "AWS (IAM, Lambda and API Gateway)",
+      "Slack Web API",
+      "Alexa Skill",
+      "Agile",
+      "OAuth",
+      "Cheat.sh"
+    ],
+    "media": "devcheatsheet.png",
+    "linkdes": "Link to source code",
+    "source": "https://github.com/SienaCollegeSoftwareEngineering/GEGreen_Gold-2018-2020"
+  },
+  {
+    "id": 5,
+    "title": "Ticket To Ride",
+    "company": "Object Oriented Course taught by Darren Lim at Siena College",
+    "description": "I worked on a team of five people on the final project for my OOP course at Siena. The task was to create a digital version of the board game Ticket To Ride where each user attepts to create their own railroad. It was written in Java using Swing's JApplet class and Java's MouseListener. My main role in this project was to work on the user interface. I worked with other teammate's code to piece together the game logic and data structures with the images and buttons the user uses to interact with the game.",
+    "technologies": [
+      "Java",
+      "JApplet (Swing JPanel)",
+      "BlueJ",
+      "Object Oriented Programming",
+      "Java MouseListener"
+    ],
+    "media": "ttr.png",
+    "linkdes": "Link to source code",
+    "source": "https://github.com/rj04maha/TickToRide"
+  }
+]

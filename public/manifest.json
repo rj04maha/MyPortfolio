@@ -1,0 +1,15 @@
+{
+  "short_name": "Rachael Mahar's Portfolio",
+  "name": "Meet Rachael Mahar and see what she has been working on recently",
+  "icons": [
+    {
+      "src": "rblue.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

@@ -1,0 +1,8 @@
+.white {
+  background-color: white;
+  padding-bottom: 20px;
+}
+
+link:hover {
+  background-color: rgba(162, 196, 201, 0.25);
+}
