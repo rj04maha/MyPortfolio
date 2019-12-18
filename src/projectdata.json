@@ -2,7 +2,7 @@
   {
     "id": 0,
     "title": "Rachael Mahar's Portfolio",
-    "description": "After I quit CSEA, I decided to teach myself React. I am currently still going through a couple Udemy courses on React/Redux but wanted to make a simple website to show off my work and get practice using components and states. I used Semantic UI library for styling. Check out my GitHub for the source code for this website.",
+    "description": "After I quit CSEA, I decided to teach myself React. I am currently still going through a couple Udemy courses on React/Redux but wanted to make a simple website to show off my work and get practice using components and states. I used Semantic UI library for styling and it hosted on Heroku. Check out my GitHub for the source code for this website.",
     "technologies": [
       "React",
       "JavaScript",
@@ -14,7 +14,7 @@
     ],
     "media": "web.PNG",
     "linkdes": "Link to source code",
-    "source": "fix me later when this is on github"
+    "source": "https://github.com/rj04maha/Portfolio"
   },
   {
     "id": 1,
