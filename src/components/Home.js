@@ -11,7 +11,7 @@ const About = () => {
             <div>
               <h1>Hello, I'm Rachael Mahar!</h1>
               <p className="about">
-                I am a full stack developer living in Fort Lauderdale, FL.
+                I am a full stack developer located in Fort Lauderdale, FL.
               </p>
             </div>
             <br></br>
