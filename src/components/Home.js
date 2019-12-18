@@ -9,7 +9,7 @@ const About = () => {
         <div className="ui two column grid stackable">
           <div className="column">
             <div>
-              <h1>Hello, I'm Rachael Mahar</h1>
+              <h1>Hello, I'm Rachael Mahar!</h1>
               <p className="about">
                 I am a full stack developer living in Fort Lauderdale, FL.
               </p>

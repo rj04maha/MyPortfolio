@@ -12,7 +12,7 @@
       "JSON",
       "JSX"
     ],
-    "media": "web.png",
+    "media": "web.PNG",
     "linkdes": "Link to source code",
     "source": "fix me later when this is on github"
   },
@@ -48,7 +48,7 @@
       "Apache Linux Server",
       "MySQL"
     ],
-    "media": "cseaweb.png",
+    "media": "cseaweb.PNG",
     "linkdes": "Link to website",
     "source": "https://interdev.cseainc.org/"
   },
@@ -59,7 +59,7 @@
     "company": "Web Application Development Course taught by Eric Breimer at Siena College",
     "description": "I created this web application to practice the skills I was learning during the Web App course I took at Siena. The landing page of this site is a page where a user is able to join or log in to edit and manage their profile and a list of courses they have taken. In addition, there is also an admin log in that can manage the users. It is written in PHP to retrieve data from a MySQL database and create reusable HTML markup. I used Bootstrap library for styling. During this course I learned about request and response processes, importance of separating an application's content, presentation, and behavior and how to implement a single integrated application using different languages.",
     "technologies": ["PHP", "HTML", "CSS", "Bootstrap", "JSON", "MySQL"],
-    "media": "webappproj.png",
+    "media": "webappproj.PNG",
     "linkdes": "Link to source code",
     "source": "https://github.com/rj04maha/WebAppCourses"
   },
@@ -77,7 +77,7 @@
       "OAuth",
       "Cheat.sh"
     ],
-    "media": "devcheatsheet.png",
+    "media": "devcheatsheet.PNG",
     "linkdes": "Link to source code",
     "source": "https://github.com/SienaCollegeSoftwareEngineering/GEGreen_Gold-2018-2020"
   },
@@ -93,7 +93,7 @@
       "Object Oriented Programming",
       "Java MouseListener"
     ],
-    "media": "ttr.png",
+    "media": "ttr.PNG",
     "linkdes": "Link to source code",
     "source": "https://github.com/rj04maha/TickToRide"
   }
