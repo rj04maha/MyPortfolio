@@ -1,9 +1,16 @@
 .whitee {
-  color: white;
+  color: white !important;
 }
 
 .blue {
   color: white;
   bottom: 100%;
   padding: 100px;
+}
+
+.linky {
+  color: white !important;
+}
+
+.linky:hover {
 }

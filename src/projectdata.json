@@ -2,7 +2,7 @@
   {
     "id": 0,
     "title": "Rachael Mahar's Portfolio",
-    "description": "After I quit CSEA, I decided to teach myself React. I am currently still going through a couple Udemy courses on React/Redux but wanted to make a simple website to show off my work and get practice using components and states. I used Semantic UI library for styling and it hosted on Heroku. Check out my GitHub for the source code for this website.",
+    "description": "After I left CSEA, I decided to teach myself React. I am currently still going through a couple Udemy courses on React/Redux but wanted to make a simple website to show off my work and get practice using components and states. I used Semantic UI library for styling and it is hosted on Heroku. Check out my GitHub for the source code for this website.",
     "technologies": [
       "React",
       "JavaScript",
@@ -10,7 +10,8 @@
       "CSS",
       "HTML",
       "JSON",
-      "JSX"
+      "JSX",
+      "Heroku"
     ],
     "media": "web.PNG",
     "linkdes": "Link to source code",
@@ -20,10 +21,11 @@
     "id": 1,
     "title": "Converted Legacy API to Node.js API",
     "company": "Civil Service Employees Association",
-    "description": "The API is used by CSEA's WordPress website that has web applications that use member data. Each web application is written using PHP scripts that makes HTTP requests to the API server and handled by Express routing. The routes are written using asynchronous javascript (async/await) to manipulate data via SQL queries. I used Postman to test and debug the routes. I also refactored legacy queries using Oracle SQL Developer.",
+    "description": "The API is used by CSEA's WordPress website that has web applications that use member data. Each web application is written using PHP scripts that make HTTP requests to the API server and handled by Express routing. The routes are written using asynchronous javascript (async/await) to manipulate data via SQL queries. I used Postman to test and debug the routes. I also worked with and refactored legacy queries using Oracle SQL Developer.",
     "technologies": [
       "Node.js",
       "Postman",
+      "Asynchronous Programming",
       "Oracle SQL Developer",
       "Express",
       "PHP",
@@ -38,7 +40,7 @@
     "id": 2,
     "title": "CSEA WordPress Website",
     "company": "Civil Service Employees Association",
-    "description": "I worked on CSEA's new WordPress website. The WordPress instance is hosted on a Apache Linux server in a MySQL database. I refactored and wrote many PHP scripts that are used to display data retrieved via the web API. I worked on making the site responsive and mobile friendly with restructuring PHP scripts and CSS. I also worked on making the website more user friendly and look better.",
+    "description": "I worked on CSEA's new WordPress website. The WordPress instance is hosted on a Apache Linux server in a MySQL database. I refactored and wrote many PHP scripts that are used to display data retrieved via the web API. I worked on making the site responsive, mobile friendly and more user friendly by restructuring PHP scripts and adding CSS.",
     "technologies": [
       "WordPress",
       "PHP",
@@ -67,13 +69,13 @@
     "id": 4,
     "title": "Developer CheatSheet",
     "company": "Software Engineer Capstone Project at Siena College",
-    "description": "I worked on a team of 10 people for my capstone project to create this application that can be used by developers to ask programming questions via Slack or an Alexa enabled device and delivered to their Slack channel. My role in this project was Scrum Master. I also created a landing page. As Scrum Master, my duties were to conduct meetings such as Sprint Planning, Tri-Weekly Standups, Sprint Review and Sprint Retrospect. I also made sure any blockers were taken care of.",
+    "description": "I worked on a team of 10 people for my capstone project to create this application that can be used by developers to ask programming questions via Slack or an Alexa enabled device and delivered to their Slack channel. The software was build for our client, General Electric but the code remains open source. My role in this project was Scrum Master. As Scrum Master, my duties were to conduct meetings such as Sprint Planning, Tri-Weekly Standups, Sprint Review and Sprint Retrospect. I also made sure any blockers were taken care of.",
     "technologies": [
       "Node.js",
+      "Agile",
       "AWS (IAM, Lambda and API Gateway)",
       "Slack Web API",
       "Alexa Skill",
-      "Agile",
       "OAuth",
       "Cheat.sh"
     ],
@@ -84,7 +86,7 @@
   {
     "id": 5,
     "title": "Ticket To Ride",
-    "company": "Object Oriented Course taught by Darren Lim at Siena College",
+    "company": "Object Oriented Programming Course taught by Darren Lim at Siena College",
     "description": "I worked on a team of five people on the final project for my OOP course at Siena. The task was to create a digital version of the board game Ticket To Ride where each user attepts to create their own railroad. It was written in Java using Swing's JApplet class and Java's MouseListener. My main role in this project was to work on the user interface. I worked with other teammate's code to piece together the game logic and data structures with the images and buttons the user uses to interact with the game.",
     "technologies": [
       "Java",

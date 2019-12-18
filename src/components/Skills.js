@@ -1,22 +1,24 @@
 import React from "react";
-import List from "./List";
+import Button from "./Button";
 
 const Skills = () => {
-  let skills = [
+  let arr = [
     "Web Development",
     "Server Side Programming Lanuages",
     "RESTful APIs",
     "SQL",
-    "Relational and NoSQL Databases",
+    "Relational Databases",
     "Object Oriented Programming",
     "Agile Methodologies",
     "Git/Github",
     "Linux",
-    "UI /UX Design"
+    "UI/UX Design"
   ];
   return (
-    <div className="about">
-      <List arr={skills} />
+    <div>
+      {arr.map(listItem => {
+        return <Button info={listItem} />;
+      })}
     </div>
   );
 };

@@ -1,0 +1,18 @@
+.custom-button {
+  margin: 2px !important;
+  background-color: rgb(162, 196, 201) !important;
+  color: white !important;
+}
+
+.custom-button {
+  cursor: default !important;
+}
+
+.norm-buttom:hover {
+  color: rgb(162, 196, 201) !important;
+}
+
+.norm-buttom {
+  padding: 20px !important;
+  margin: 100px !important;
+}

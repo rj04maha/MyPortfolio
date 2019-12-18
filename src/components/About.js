@@ -16,15 +16,15 @@ const About = () => {
               in computer science. I worked at New York's largest labor union,
               CSEA, as a computer programmer/analyst for 6 months before moving
               down to the sunshine state! Hobbies include; traveling,
-              kickboxing, scuba diving and sport fishing. Please do not hesitate
-              to reach out. Thanks for reading :)
+              kickboxing, scuba diving and boating. Please do not hesitate to
+              reach out. Thanks for reading :)
             </p>
           </div>
         </div>
         <div className="column">
           <div>
             <img
-              className="ui large centered image"
+              className="ui medium centered image"
               alt="Rachael Mahar"
               src="./images/me.png"
             ></img>
