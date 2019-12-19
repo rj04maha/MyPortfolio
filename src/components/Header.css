@@ -10,6 +10,7 @@
 .resume-button {
   background-color: rgb(162, 196, 201) !important;
   color: white !important;
+  margin-top: 10px !important;
 }
 
 .resume-button:hover {
