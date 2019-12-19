@@ -6,3 +6,18 @@
 .menu-link:hover {
   background-color: rgba(162, 196, 201, 0.25) !important;
 }
+
+.resume-button {
+  background-color: rgb(162, 196, 201) !important;
+  color: white !important;
+}
+
+.resume-button:hover {
+  background-color: white !important;
+  color: rgb(162, 196, 201) !important;
+  border: 2px solid rgb(162, 196, 201) !important;
+}
+
+.no-hover:hover {
+  background-color: white !important;
+}
