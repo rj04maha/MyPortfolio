@@ -21,7 +21,7 @@ const About = () => {
 
         <div className="column">
           <Link to="/projects">
-            <button class="norm-buttom ui inverted button">
+            <button class="norm-buttom fluid ui inverted button">
               Check out my projects where I use these skills
               <i class="right chevron icon"></i>
             </button>
