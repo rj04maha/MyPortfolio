@@ -19,6 +19,7 @@ class Projects extends React.Component {
               <ProjectDetail project={this.state.selectedProject} />
             </div>
             <div className="five wide column">
+              <h2>Project List</h2>
               <ProjectList
                 onProjectSelect={this.onProjectSelect}
                 projects={this.state.projects}

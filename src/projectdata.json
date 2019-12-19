@@ -19,7 +19,7 @@
   },
   {
     "id": 1,
-    "title": "Converted Legacy API to Node.js API",
+    "title": "Legacy API to Node.js API Conversion",
     "company": "Civil Service Employees Association",
     "description": "The API is used by CSEA's WordPress website that has web applications that use member data. Each web application is written using PHP scripts that make HTTP requests to the API server and handled by Express routing. The routes are written using asynchronous javascript (async/await) to manipulate data via SQL queries. I used Postman to test and debug the routes. I also worked with and refactored legacy queries using Oracle SQL Developer.",
     "technologies": [
@@ -57,7 +57,7 @@
 
   {
     "id": 3,
-    "title": "Manage User and Courses Web Application",
+    "title": "Manage User and Courses Web App",
     "company": "Web Application Development Course taught by Eric Breimer at Siena College",
     "description": "I created this web application to practice the skills I was learning during the Web App course I took at Siena. The landing page of this site is a page where a user is able to join or log in to edit and manage their profile and a list of courses they have taken. In addition, there is also an admin log in that can manage the users. It is written in PHP to retrieve data from a MySQL database and create reusable HTML markup. I used Bootstrap library for styling. During this course I learned about request and response processes, importance of separating an application's content, presentation, and behavior and how to implement a single integrated application using different languages.",
     "technologies": ["PHP", "HTML", "CSS", "Bootstrap", "JSON", "MySQL"],

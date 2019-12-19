@@ -1,15 +1,15 @@
 .project-item {
   display: flex !important;
   align-items: center !important;
-  cursor: pointer;
-  height: 100px;
+  height: 80px;
 }
 
-img {
-  max-height: 100%;
-  padding: 5px;
+.content {
+  background-color: white !important;
+  padding: 25px !important;
 }
 
-.project-item:hover {
-  background-color: rgba(162, 196, 201, 0.25);
+.content:hover {
+  background-color: rgb(162, 196, 201) !important;
+  color: white !important;
 }
