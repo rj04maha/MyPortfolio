@@ -1,14 +1,14 @@
 .project-item {
   display: flex !important;
-  align-items: center !important;
+  align-items: left !important;
   height: 80px;
 }
 
 .content {
   background-color: white !important;
   padding: 25px !important;
+  text-align: left !important;
 }
-
 .content:hover {
   background-color: rgb(162, 196, 201) !important;
   color: white !important;

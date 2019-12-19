@@ -15,15 +15,15 @@ class Projects extends React.Component {
       <div className="ui container">
         <div className="ui stackable grid">
           <div className="ui row">
-            <div className="eleven wide column">
-              <ProjectDetail project={this.state.selectedProject} />
-            </div>
             <div className="five wide column">
               <h2>Project List</h2>
               <ProjectList
                 onProjectSelect={this.onProjectSelect}
                 projects={this.state.projects}
               />
+            </div>
+            <div className="eleven wide column">
+              <ProjectDetail project={this.state.selectedProject} />
             </div>
           </div>
         </div>
