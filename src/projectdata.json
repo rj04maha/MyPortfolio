@@ -69,7 +69,7 @@
     "id": 4,
     "title": "Developer CheatSheet",
     "company": "Software Engineer Capstone Project at Siena College",
-    "description": "I worked on a team of 10 people for my capstone project to create this application that can be used by developers to ask programming questions via Slack or an Alexa enabled device and delivered to their Slack channel. The software was build for our client, General Electric but the code remains open source. My role in this project was Scrum Master. As Scrum Master, my duties were to conduct meetings such as Sprint Planning, Tri-Weekly Standups, Sprint Review and Sprint Retrospect. I also made sure any blockers were taken care of.",
+    "description": "I worked on a team of 10 people for my capstone project to create this application that can be used by developers to ask programming questions via Slack or an Alexa enabled device and delivered to their Slack channel. The software was build for our client, General Electric, but the code remains open source. My role in this project was Scrum Master. As Scrum Master, my duties were to conduct meetings such as Sprint Planning, Tri-Weekly Standups, Sprint Review and Sprint Retrospect. I also made sure any blockers were taken care of.",
     "technologies": [
       "Node.js",
       "Agile",

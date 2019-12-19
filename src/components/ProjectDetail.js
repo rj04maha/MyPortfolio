@@ -11,8 +11,8 @@ const ProjectDetail = ({ project }) => {
   }
   return (
     <div className="ui segment">
-      <h2>{project.title}</h2>
-      <h3>{project.company}</h3>
+      <h2 className="black">{project.title}</h2>
+      <h3 className="black">{project.company}</h3>
       <div>
         <img
           className="ui fluid image"
@@ -20,20 +20,18 @@ const ProjectDetail = ({ project }) => {
           alt="example"
         ></img>
       </div>
-      <h3>About this project</h3>
-      <p>{project.description}</p>
-      <h3>Technology Used</h3>
+      <h3 className="black">About this project</h3>
+      <p className="black">{project.description}</p>
+      <h3 className="black">Technology Used</h3>
       <List arr={project.technologies} />
-      <h3>See more about this</h3>
+      <h3 className="black">See more about this</h3>
 
       <div>
-        <a
-          className="item"
-          href={`${project.source}`}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          {project.linkdes}
+        <a target="_blank" rel="noopener noreferrer" href={project.source}>
+          <button class="ui button">
+            {project.linkdes}
+            <i class="right chevron icon"></i>
+          </button>
         </a>
       </div>
     </div>

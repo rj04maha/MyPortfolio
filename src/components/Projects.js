@@ -12,16 +12,18 @@ class Projects extends React.Component {
 
   render() {
     return (
-      <div className="ui container stackable grid">
-        <div className="ui row">
-          <div className="eleven wide column">
-            <ProjectDetail project={this.state.selectedProject} />
-          </div>
-          <div className="five wide column">
-            <ProjectList
-              onProjectSelect={this.onProjectSelect}
-              projects={this.state.projects}
-            />
+      <div className="ui container">
+        <div className="ui stackable grid">
+          <div className="ui row">
+            <div className="eleven wide column">
+              <ProjectDetail project={this.state.selectedProject} />
+            </div>
+            <div className="five wide column">
+              <ProjectList
+                onProjectSelect={this.onProjectSelect}
+                projects={this.state.projects}
+              />
+            </div>
           </div>
         </div>
       </div>

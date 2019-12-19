@@ -8,11 +8,11 @@ import Contact from "./Contact";
 
 const App = () => {
   return (
-    <div className="">
+    <div>
       <BrowserRouter basename={process.env.PUBLIC_URL}>
         <div>
           <Header />
-          <div className="ui">
+          <div>
             <Route path="/" exact component={Home} />
             <Route path="/about" exact component={About} />
             <Route path="/projects" exact component={Projects} />

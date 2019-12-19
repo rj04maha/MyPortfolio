@@ -1,13 +1,15 @@
 import React from "react";
 import RenderTimeline from "./RenderTimeline";
+import "./About.css";
 
 const About = () => {
   return (
     <div className="ui container">
+      <br></br>
       <div className="ui two column grid stackable">
         <div className="column">
           <div>
-            <h1 className="ui">Get to know me</h1>
+            <h1>Get to know me</h1>
             <p className="about">
               Hiii, thanks for visiting my website! I am currently on the job
               market for a full stack/software developer position in Fort
@@ -24,7 +26,7 @@ const About = () => {
         <div className="column">
           <div>
             <img
-              className="ui medium centered image"
+              className="custom-image ui medium centered image"
               alt="Rachael Mahar"
               src="./images/me.png"
             ></img>

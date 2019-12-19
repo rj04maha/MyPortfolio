@@ -17,16 +17,16 @@ const Header = () => {
             </Link>
           </div>
           <div className=" menu">
-            <Link to="/" className="item">
+            <Link to="/" className="menu-link item">
               Home
             </Link>
-            <Link to="/about" className="item">
+            <Link to="/about" className="menu-link item">
               About
             </Link>
-            <Link to="/projects" className="item">
+            <Link to="/projects" className="menu-link item">
               Projects
             </Link>
-            <Link to="/contact" className="item">
+            <Link to="/contact" className="menu-link item">
               Contact
             </Link>
           </div>
