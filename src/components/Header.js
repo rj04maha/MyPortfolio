@@ -35,7 +35,7 @@ const Header = () => {
         </div>
         <div className="five wide column">
           <a
-            href="https://docs.google.com/document/d/1wuyXiWsVhIcU-THH8aM_E0x3rEPYyPAOX1H5XiN9xy8/edit?usp=sharing"
+            href="https://docs.google.com/document/d/1Aj3imAitdbc40272G5laiR14nEolRlCJvq_7Ka90Rnw/edit?usp=sharing"
             className="no-hover item"
             target="_blank"
             rel="noopener noreferrer"

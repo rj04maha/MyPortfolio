@@ -1,5 +1,17 @@
 [
   {
+    "id": 8,
+    "title": "Full-Stack Web Developer",
+    "company": "Drone Photography by Steve Balogh",
+    "time": "Dec 2019 - Present",
+    "location": "Fort Lauderdale, FL",
+    "duties": [
+      "Designed and created a web application that will be used to raise money for underprivileged middle school students",
+      "Used React for front end and Redux for state management",
+      "Built web server to store data and used Heroku for deployment"
+    ]
+  },
+  {
     "id": 7,
     "title": "Self Improvement",
     "company": "",
