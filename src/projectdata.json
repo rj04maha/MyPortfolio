@@ -6,8 +6,8 @@
     "technologies": [
       "React",
       "Redux",
-      "MongoDB"
-      "Node.js"
+      "MongoDB",
+      "Node.js",
       "Express",
       "APIs",
       "JavaScript",
@@ -15,8 +15,7 @@
       "CSS/HTML",
       "JSON",
       "Heroku",
-      "Cloudinary",
-
+      "Cloudinary"
     ],
     "media": "drone.PNG",
     "linkdes": "Link to website",
