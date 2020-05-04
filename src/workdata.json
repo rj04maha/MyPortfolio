@@ -1,27 +1,14 @@
 [
   {
-    "id": 8,
+    "id": 7,
     "title": "Full-Stack Web Developer",
     "company": "Drone Photography by Steve Balogh",
     "time": "Dec 2019 - Present",
     "location": "Fort Lauderdale, FL",
     "duties": [
-      "Designed and created a web application that will be used to raise money for underprivileged middle school students",
-      "Used React for front end and Redux for state management",
-      "Built web server to store data and used Heroku for deployment"
-    ]
-  },
-  {
-    "id": 7,
-    "title": "Self Improvement",
-    "company": "",
-    "time": "Nov 2019 - Present",
-    "location": "Fort Lauderdale, FL",
-    "duties": [
-      "Modern React with Redux Udemy Course",
-      "Node with React: Fullstack Web Development Udemy Course",
-      "Creating this website",
-      "A little traveling"
+      "Designed and created a SPA application that will be used to raise money for underprivileged middle school students",
+      "Built a Node.js web server/API using Express that communicates with the front end React app",
+      "Utilized MongoDB to store web data and Redux to manage state"
     ]
   },
   {
@@ -74,7 +61,7 @@
   },
   {
     "id": 2,
-    "title": "Tutor & Classrom/Lab Assistent",
+    "title": "Tutor & Classrom/Lab Assistant",
     "company": "Computer Science Department at Siena College",
     "time": "Sept 2016 - May 2017",
     "location": "Loudonville, NY",

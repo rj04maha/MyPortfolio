@@ -2,25 +2,30 @@
   {
     "id": 5,
     "title": "Website for Drone Photography by Steve Balogh",
-    "description": "I designed and created a web application for a client that will be used to raise money for underprivileged middle school students. The purpose of this website is to display drone photos that people can purchase a digital or hard copy of the photo. I used React for front end and Redux for state management. I am working on building a web server to store data and other uses. I used Heroku for deployment. The project is still underway.",
+    "description": "I designed and created a SPA for a client that will be used to raise money for underprivileged middle school students. The purpose of this website is to display drone photos that people can purchase a digital or hard copy of the photo. It is built on a Node.js web server/API using Express that communicates with the front end React app. The data is stored in a MongoDB and Redux to manage state",
     "technologies": [
       "React",
       "Redux",
+      "MongoDB"
+      "Node.js"
+      "Express",
       "APIs",
       "JavaScript",
       "Semantic UI",
       "CSS/HTML",
       "JSON",
-      "Heroku"
+      "Heroku",
+      "Cloudinary",
+
     ],
     "media": "drone.PNG",
     "linkdes": "Link to website",
-    "source": "http://damp-caverns-58733.herokuapp.com/"
+    "source": "http://dronephotoserver.herokuapp.com/"
   },
   {
     "id": 5,
     "title": "Rachael Mahar's Portfolio",
-    "description": "After I left CSEA, I decided to teach myself React. I am currently still going through a couple Udemy courses on React/Redux but wanted to make a simple website to show off my work and get practice using components and states. I used Semantic UI library for styling and it is hosted on Heroku. Check out my GitHub for the source code for this website.",
+    "description": "After I left CSEA, I decided to teach myself React. I completed two Udemy courses called 'Modern React with Redux' and 'Node with React: Fullstack Web Developer'. These courses laid down the foudations that I've used to create this website and the Drone Photography site.",
     "technologies": [
       "React",
       "JavaScript",

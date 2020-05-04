@@ -11,15 +11,16 @@ const About = () => {
           <div>
             <h1>Get to know me</h1>
             <p className="about">
-              Hiii, thanks for visiting my website! I am currently on the job
-              market for a full stack/software developer position in Fort
-              Lauderdale area (or remote). I recently graduated from Siena
-              College in upstate New York this past May with a bachelors degree
-              in computer science. I worked at New York's largest labor union,
-              CSEA, as a computer programmer/analyst for 6 months before moving
-              down to the sunshine state! Hobbies include; traveling,
-              kickboxing, scuba diving and boating. Please do not hesitate to
-              reach out. Thanks for reading :)
+              Hi There! Thanks for visiting my website! I am currently on the
+              job market for a remote full stack/software developer position. I
+              recently graduated from Siena College in upstate New York May 2019
+              with a bachelors degree in computer science. Immediately after
+              graduation, I worked at New York's largest labor union, CSEA, as a
+              computer programmer/analyst. I left there to do Freelance/Contract
+              work. My biggest project was creating a SPA to raise money for
+              underprivileged middle school students on the MERN stack. Hobbies
+              include; traveling, kickboxing, scuba diving and boating. Please
+              do not hesitate to reach out. Thanks for reading :)
             </p>
           </div>
         </div>
